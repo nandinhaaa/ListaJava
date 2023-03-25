@@ -1,8 +1,8 @@
 <h1 align="center"> ListaLP2 </h1>
-## Descrição do Projeto
+# Descrição do Projeto
 <p align="center">Lista para fixaçao de conteúdo</p>
 
-### Autor
+# Autor
 ---
 
 
